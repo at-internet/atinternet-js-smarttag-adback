@@ -7,8 +7,8 @@ This plugin allows you to send AT Internet hits blocked on end-user browsers, th
 ## Pre-requisite
 
 * An account on [Adback.co](https://landing.adback.co/)
-* The usage of first-party user id in your smarttag.js
-* The activation of Callbacks in your smarttag.js file (default to true)
+* The usage of first-party user id in your smarttag.js (default since 5.10.0)
+* The activation of Callbacks in your smarttag.js file (default)
 
 ## Usage
 
